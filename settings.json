@@ -66,3 +66,25 @@
 },
 "material-ui-snippets.showNotesOnStartup": false
 }
+
+
+
+
+<><><><><><><><><><><><><><><><><><><><>>
+
+{
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.external.windowsExec": "",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "editor.fontFamily": "'Cascadia Code'",
+    "editor.guides.bracketPairs": true,
+    "workbench.colorTheme": "NarutoDark",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "workbench.editor.enablePreview": false,
+    "files.autoSave": "afterDelay",
+    "workbench.startupEditor": "none"
+}
